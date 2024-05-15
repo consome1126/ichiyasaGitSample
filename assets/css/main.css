@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #ed0000;
 		font-size: 3.5em;
 	}
 
@@ -2600,7 +2600,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/kaito2_top.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2848,7 +2848,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #15ff00;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
